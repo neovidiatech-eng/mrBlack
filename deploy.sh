@@ -3,7 +3,7 @@
 # Exit immediately if a command exits with a non-zero status
 set -e
 
-APP_NAME="mr-black"
+APP_NAME="mr_black"
 
 echo "=================================================="
 echo "🚀 Starting Deployment Process for ${APP_NAME}..."

@@ -6,8 +6,8 @@ services:
     container_name: mr_black_app
     restart: always
     ports:
-      - "9091:9091"
+      - "3990:3990"
     environment:
       - NODE_ENV=production
-      - PORT=9091
+      - PORT=3990
       - HOSTNAME=0.0.0.0

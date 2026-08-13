@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "bash deploy.sh"
+    "deploy": "bash deploy-docker.sh"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",

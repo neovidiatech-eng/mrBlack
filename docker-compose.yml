@@ -1,0 +1,13 @@
+services:
+  mr_black_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mr_black_app
+    restart: always
+    ports:
+      - "3990:3990"
+    environment:
+      - NODE_ENV=production
+      - PORT=3990
+      - HOSTNAME=0.0.0.0

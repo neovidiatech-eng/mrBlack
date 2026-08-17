@@ -2,8 +2,8 @@ import { MapPin, Phone, Mail, Clock, ArrowLeft } from "lucide-react";
 import Link from "next/link";
 
 export const metadata = {
-  title: "تواصل معنا | أوبتيكال",
-  description: "نحن هنا لمساعدتك. تواصل مع فريق خدمة العملاء في أوبتيكال",
+  title: "تواصل معنا | MR.BLACK",
+  description: "نحن هنا لمساعدتك. تواصل مع فريق خدمة العملاء في MR.BLACK للاستفسارات والدعم.",
 };
 
 export default function ContactPage() {
@@ -115,7 +115,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-1">البريد الإلكتروني</h3>
-                  <p className="text-gray-500" dir="ltr">support@optical.com</p>
+                  <p className="text-gray-500" dir="ltr">support@mrblack-eg.com</p>
                 </div>
               </div>
 

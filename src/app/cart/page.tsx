@@ -26,7 +26,7 @@ export default function CartPage() {
         <h1 className="text-3xl font-black mb-4">سلة التسوق فارغة</h1>
         <p className="text-gray-500 mb-8 max-w-md">
           لم تقم بإضافة أي منتجات إلى سلة التسوق الخاصة بك حتى الآن. اكتشف أحدث
-          النظارات وأضفها للسلة.
+          تشكيلات الأحذية وأضفها للسلة.
         </p>
         <Link
           href="/shop"

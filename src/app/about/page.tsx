@@ -42,7 +42,7 @@ export default function AboutPage() {
                 قصتنا
               </h2>
               <h3 className="text-4xl font-black text-gray-900 mb-6">
-                منذ عام 2010، ونحن نضع العالم في إطار أجمل.
+                منذ عام 2010، ونحن نقدم أفضل تشكيلات الأحذية الفاخرة والعصرية.
               </h3>
               <div className="space-y-6 text-gray-600 text-lg leading-relaxed">
                 <p>

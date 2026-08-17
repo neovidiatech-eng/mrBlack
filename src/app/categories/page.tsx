@@ -1,8 +1,8 @@
-﻿import CategoriesClient from "./CategoriesClient";
+import CategoriesClient from "./CategoriesClient";
 
 export const metadata = {
-  title: "الأقسام | الأحمدي بصريات",
-  description: "تصفح أقسام الأحمدي بصريات واختر القسم المناسب للوصول إلى المنتجات والتصنيفات الفرعية.",
+  title: "الأقسام | MR.BLACK",
+  description: "تصفح أقسام ومتجر MR.BLACK واختر القسم المناسب للوصول إلى أحدث تشكيلات الأحذية الفاخرة والعصرية.",
 };
 
 export default function CategoriesPage() {

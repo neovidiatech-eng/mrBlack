@@ -41,11 +41,11 @@ export async function generateMetadata({
     }
 
     return {
-      title: `${currentCategory.name} | الاحمدي بصريات`,
-      description: `تسوق أفضل المنتجات في قسم ${currentCategory.name} بأفضل الأسعار.`,
+      title: `${currentCategory.name} | MR.BLACK`,
+      description: `تسوق أفضل تشكيلات الأحذية في قسم ${currentCategory.name} بأفضل الأسعار من MR.BLACK.`,
       openGraph: {
-        title: `${currentCategory.name} | الاحمدي بصريات`,
-        description: `تسوق أفضل المنتجات في قسم ${currentCategory.name} بأفضل الأسعار.`,
+        title: `${currentCategory.name} | MR.BLACK`,
+        description: `تسوق أفضل تشكيلات الأحذية في قسم ${currentCategory.name} بأفضل الأسعار من MR.BLACK.`,
         images: currentCategory.imageUrl
           ? [{ url: currentCategory.imageUrl }]
           : undefined,

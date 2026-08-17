@@ -88,7 +88,7 @@ function ShopContent() {
             اكتشف ستايلك <span className="text-gray-400">الجديد.</span>
           </h1>
           <p className="text-gray-300 max-w-xl text-sm md:text-base leading-relaxed">
-            تسوق أحدث التشكيلات من النظارات الطبية والشمسية لأشهر الماركات
+            تسوق أحدث تشكيلات الأحذية الفاخرة والعصرية لأشهر الماركات
             العالمية. صُممت لتناسب ذوقك وتعكس شخصيتك الفريدة.
           </p>
         </div>

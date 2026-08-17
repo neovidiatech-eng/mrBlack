@@ -33,7 +33,7 @@ export default function HeroSlider() {
       id: "default-1",
       title: "MR.BLACK ROYAL COLLECTION",
       subtitle: "مجموعة فاخرة تناسب جميع الأذواق",
-      description: "تسوق أحدث صيحات النظارات والأحذية والإكسسوارات بأعلى جودة وأفضل الأسعار.",
+      description: "تسوق أحدث صيحات الأحذية الفاخرة والإكسسوارات بأعلى جودة وأفضل الأسعار.",
       tag: "إصدار النخبة الملكية",
       bgImage: "/logo.jpeg",
       shoeImage: "/logo.jpeg",
